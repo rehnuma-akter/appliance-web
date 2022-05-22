@@ -7,12 +7,3 @@
     color: white;
     padding: 10px;
 }
-.footer a{
-    color: rgb(0, 89, 255);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: none;
-    font-size: 18px;
-}
-.footer a:hover{
-    color: rgb(122, 184, 255);
-}

@@ -1,0 +1,73 @@
+[ 
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/S6BcDGp/food-processor.jpg",
+        "name": "food-processor",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/LY75Mt9/coffee-maker.jpg",
+        "name": "Coffee Maker",
+        "price": 305
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/7pWSGtB/fridge.jpg",
+        "name": "Refrigerator",
+        "price": 542
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/JcxvS59/Hand-Mixer.jpg",
+        "name": "Hand Mixer",
+        "price": 296
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/S0vWVxW/air-fryer.jpg",
+        "name": "Air Fryer",
+        "price": 120
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/WBBZcw0/best-rice-maker-main.jpg",
+        "name": "Rice Maker",
+        "price": 580
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/t2Rt3WH/oven.jpg",
+        "name": "Microwave",
+        "price": 730
+    },
+    {
+        "id": 8,
+        "img": " https://i.ibb.co/wY5gMdz/toaster.jpg",
+        "name": "Toaster",
+        "price": 230
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/zVrQXLD/washing-machine.jpg",
+        "name": "Washing Machine",
+        "price": 480
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/jhQ5bP3/water-heater.jpg",
+        "name": "Water Heater",
+        "price": 450
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/dGTCbpN/waffle-maker.jpg",
+        "name": "Waffle Maker",
+        "price": 560
+    },
+    {   "id": 12, 
+        "img": "https://i.ibb.co/wSGD4MF/iron.jpg", 
+        "name": "Iron", 
+        "price": 247
+    }
+]
