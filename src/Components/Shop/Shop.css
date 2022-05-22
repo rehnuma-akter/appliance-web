@@ -13,6 +13,10 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+.cart-container{
+    color: black;
+    background-color: rgba(248, 248, 248, 0.852);
+}
 @media screen and (max-width:700px){
     .products-container{
         grid-template-columns: repeat(1, 1fr);
