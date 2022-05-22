@@ -25,6 +25,6 @@ const Product = (props) => {
             </Card>
         </div>
     );
-};
+};   
 
 export default Product; 
